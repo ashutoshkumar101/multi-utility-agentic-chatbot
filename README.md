@@ -154,6 +154,3 @@ Indian Institute of Information Technology, Bhagalpur
 
 *Developed as a project exploring Agentic AI, Retrieval-Augmented Generation, and LLM-based tool integration.*
 =======
-# multi-utility-agentic-chatbot
-An AI-powered multi-utility agentic chatbot built with Google Gemini, LangGraph, and Streamlit, featuring PDF-based RAG, web search, calculator, stock price lookup, and LangSmith monitoring.
->>>>>>> a0a87aa48dfca1a67e68734a83e7439879395b95
