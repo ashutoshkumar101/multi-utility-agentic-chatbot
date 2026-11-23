@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Multi-Utility Agentic Chatbot
 
 An AI-powered multi-utility chatbot built using **Google Gemini, LangGraph, LangChain, and Streamlit**. The application combines conversational AI, Retrieval-Augmented Generation (RAG), and agentic tool calling to perform multiple tasks through a single interface.
@@ -153,4 +152,3 @@ Indian Institute of Information Technology, Bhagalpur
 ---
 
 *Developed as a project exploring Agentic AI, Retrieval-Augmented Generation, and LLM-based tool integration.*
-=======
